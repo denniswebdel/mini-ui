@@ -7,7 +7,6 @@
   "repository": "https://github.com/denniswebdel/mini-ui.git",
   "description": "",
   "main": "src/index.ts",
-  "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
